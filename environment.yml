@@ -1,0 +1,16 @@
+name: forest-height
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.12
+  - numpy==2.4
+  - numpy
+  - pandas
+  - geopandas
+  - rasterio
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scipy
+  - shapely

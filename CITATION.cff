@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kostiukhin"
+  given-names: "Anton"
+  orcid: https://orcid.org/0009-0009-6322-0303
+- family-names: "Tampuu"
+  given-names: "Tauri"
+  orcid: https://orcid.org/0000-0002-5176-0005
+- family-names: "Kmoch"
+  given-names: "Alexander"
+  orcid: https://orcid.org/0000-0003-4386-4450
+- family-names: "Praks"
+  given-names: "Jaan"
+  orcid: https://orcid.org/0000-0001-7466-3569
+- family-names: "Jüssi"
+  given-names: "Martin"
+  orcid: https://orcid.org/0009-0004-6091-0759
+title: "Forest height modelling scripts for the paper 'A systematic comparison of the factors influencing forest height estimation from single-pass interferometric data, using inverse and machine-learning methods'"
+version: 1.0.0
+doi: ""
+date-released: 2026-09-02
+url: "https://github.com/kappazeta/forest-height-modelling"
