@@ -12,6 +12,10 @@ Anton Kostiukhin<sup>1,2</sup>, Tauri Tampuu<sup>1</sup>, Alexander Kmoch<sup>2<
 - `scripts/02_linear.ipynb`: interferometric height-based linear regression model;
 - `scripts/03_random_forest.ipynb`: machine learning Random Forest model;
 
+## Funding
+
+This study formed part of a PhD project and was supported by the European Union from the European Regional Development Fund (grant number [2021-2027.1.01.24-0776](https://kappazeta.ee/r-d/)); the Estonian Research Council (grant number [PSG841](https://www.etis.ee/Portal/Projects/Display/8eb96f09-88c2-4196-a6c1-6f6f46038c4d)); and the Estonian Ministry of Education and Research, Centre of Excellence for Sustainable Land Use (grant number [TK232](https://www.etis.ee/Portal/Projects/Display/f6e30275-9522-4692-8f21-86728899b2c0)).
+
 ---
 
 [![DOI](https://zenodo.org/badge/1354690849.svg)](https://doi.org/10.5281/zenodo.22272334)
