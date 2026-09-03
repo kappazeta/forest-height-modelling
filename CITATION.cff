@@ -19,5 +19,5 @@ authors:
 title: "Forest height modelling scripts for the paper 'A systematic comparison of the factors influencing forest height estimation from single-pass interferometric data, using inverse and machine-learning methods'"
 version: 1.0.0
 doi: ""
-date-released: 2026-09-02
+date-released: 2026-09-03
 url: "https://github.com/kappazeta/forest-height-modelling"
