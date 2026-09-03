@@ -18,6 +18,6 @@ authors:
   orcid: https://orcid.org/0009-0004-6091-0759
 title: "Forest height modelling scripts for the paper 'A systematic comparison of the factors influencing forest height estimation from single-pass interferometric data, using inverse and machine-learning methods'"
 version: 1.0.0
-doi: ""
+doi: "10.5281/zenodo.22272335"
 date-released: 2026-09-03
 url: "https://github.com/kappazeta/forest-height-modelling"

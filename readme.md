@@ -11,3 +11,7 @@ Anton Kostiukhin<sup>1,2</sup>, Tauri Tampuu<sup>1</sup>, Alexander Kmoch<sup>2<
 - `scripts/01_csinc.ipynb`: interferometric coherence-based C-Sinc model;
 - `scripts/02_linear.ipynb`: interferometric height-based linear regression model;
 - `scripts/03_random_forest.ipynb`: machine learning Random Forest model;
+
+---
+
+[![DOI](https://zenodo.org/badge/1354690849.svg)](https://doi.org/10.5281/zenodo.22272334)
